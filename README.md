@@ -8,7 +8,7 @@ Uso por lo general __JavaScritp__ puro, al igual que __HTML__ y __CSS__; tambien
 
 ### ¿Que estoy aprendiendo? 📚
 
-Actualmente estoy aprendiendo __Algortimos__, __Principios SOLID__, __OOP__, __Patrones de diseño__. Opino que es muy importante para ser todo eso para ser un gran desarrollador.
+Actualmente estoy aprendiendo __Algortimos__, __Principios SOLID__, __OOP__, __Patrones de diseño__. Opino que es muy importante para ser un gran desarrollador.
 
 ### ¿Que me interesa aprender posteriormente? 🏆
 
