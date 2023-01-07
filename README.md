@@ -1,12 +1,12 @@
-### Hi dev! Soy Alam
+### Hi Dev! Soy Alam
 
-Estoy creando un sitio llamado [Bubble](http://google.com) para que todos puedan usar "Custom Elements" diseñados por mi.
+Estoy creando un sitio llamado [Algorithm](http://google.com) para que todos puedan entender e implementar algortimos en JavaScript.
 
 ### ¿Que tecnologias uso? ⌨
 
 Uso por lo general __JavaScritp__ puro, al igual que __HTML__ y __CSS__; tambien cuento con el conocimiento de tecnologias como __React__ y __Sass__. Saliendo un poco del Stack de Desarrollo Web tambien e trabajado con __Python__ y __C++__.
 
-### ¿Que estoy aprendiendo? 📚
+### ¿Que estoy aprendiendo? 📄
 
 Actualmente estoy aprendiendo __Algortimos__, __Principios SOLID__, __OOP__, __Patrones de diseño__. Opino que es muy importante para ser un gran desarrollador.
 
