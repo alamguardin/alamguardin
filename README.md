@@ -14,10 +14,10 @@ Actualmente estoy aprendiendo __Algortimos__, __Principios SOLID__, __OOP__, __P
 
 Aunque son muchas las cosas que quiero aprender y diferentes areas las que quiero explorar, lo que sigue en la lista por aprender es:
 
-- [ ] Bootstrap & Tailwind
-- [ ] Vue & React advance
-- [ ] SSR & SSG
-- [ ] Astro
+-  Bootstrap & Tailwind
+-  Vue & React advance
+-  SSR & SSG
+-  Astro
 
 Otros lenguajes que posiblemente estare explorando son __Python__, __TypeScript__ y __Rust__.
 
