@@ -19,7 +19,7 @@ Por lo general mi enfoque esta dentro del área de __Web Development__, pero tam
 - __OOP__ 
 - __Patrones de diseño__
 
-### ✨ Posteriormente me interesa aprender
+### ✨ Posteriormente me interesa aprender...
 
 -  __Bootstrap & Tailwind__
 -  __Vue & React advance__
