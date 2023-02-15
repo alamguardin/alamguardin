@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Alam 👋
 
-⚡️Estoy creando un sitio llamado [Algorithm](https://algorithm-site.netlify.app) para que todos puedan entender e implementar algortimos en JavaScript.
+⚡️Aprendiendo y creando día a día
 
 ### Tecnologias que uso...
 
@@ -14,9 +14,10 @@ Por lo general mi enfoque esta dentro del área de __Web Development__, pero tam
 
 ### 🌘 Aprendiendo actualmente... 
 
+- __Estructura de Datos__
 - __Algortimos__ 
-- __Principios SOLID__ 
-- __OOP__ 
+- __OPP__ 
+- __Principios SOLID__
 - __Patrones de diseño__
 
 ### ✨ Posteriormente me interesa aprender...
