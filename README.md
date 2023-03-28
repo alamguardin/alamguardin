@@ -16,15 +16,15 @@ Por lo general mi enfoque esta dentro del área de __Web Development__, pero tam
 
 - __Estructura de Datos__
 - __Algortimos__ 
-- __OPP__ 
 - __Principios SOLID__
 - __Patrones de diseño__
 
 ### ✨ Posteriormente me interesa aprender...
 
--  __Bootstrap & Tailwind__
--  __Vue & React advance__
--  __SSR & SSG__
+-  __Tailwind__
+-  __React & Vue.js__
+-  __Next.js__
+-  __Remix__
 -  __Astro__
 
 Otros lenguajes que posiblemente estaré explorando son __Python advance__, __TypeScript__ y __Rust__. Asi como también explorare otras áreas como __Game Development__,
