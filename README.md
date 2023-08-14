@@ -2,7 +2,7 @@
 
 ⚡ Ahora mismo me encargo de aprender y construir experiencia.
 
-Mi objetivo es aprender y tener experiencia para trabajar en proyectos y crear productos que me ayuden a ganar dinero en el futuro.
+Mi objetivo es aprender y ganar experiencia para contribuir en proyectos, además de crear productos rentables en un futuro.
 
 Si desea apreciar mi progreso, puede asistirme a través de las redes sociales siguientes:
 
