@@ -12,7 +12,7 @@ Html/Css ✤ JavaScript ✤ React ✤ Astro ✤ Sass
 
 ### Puedes encontrarme en 🔍
 * [Twitter](https://twitter.com/alamguardin)
-* [Instagram](https://www.instagram.com/alamguardin/)
+* [Instagram](https://www.instagram.com/alamguardin.xyz/)
 * [Dribbble](https://dribbble.com/alamguardin)
 * [Linkedin](https://www.linkedin.com/in/alamguardin/)
 <!---
