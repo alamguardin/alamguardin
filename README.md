@@ -8,7 +8,7 @@
 [Goodmorphism](https://www.goodmorphism.xyz/) - Generador de morfismos de vidrio 💎
 
 ### Skills
-Html/Css ✤ JavaScript ✤ React ✤ Astro ✤ Sass
+Html/Css ✷ JavaScript ✷ React ✷ Astro ✷ Sass
 
 ### Puedes encontrarme en 🔍
 * [Twitter](https://twitter.com/alamguardin)
