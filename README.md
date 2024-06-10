@@ -1,7 +1,9 @@
-# ¡Hola! Soy Alam 👋
+### ¡Hola! Soy Alam 👋
 
-- 🌟 Me encuentro desarrollando mis propios productos.
-- ⚡️ Generando experiencia y creando oportunidades.
+**Aprendiendo Desarollo de Software, Diseño y más**
+
+- 🌟 Desarrollando mis propios productos.
+- ⚡️ Generando experiencia.
 - 🌱 Aprendiendo cosas nuevas cada día.
 
 <!---
