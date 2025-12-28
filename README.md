@@ -1,6 +1,8 @@
-### ¡Hey! Soy Alam 👋
+### ¡Hola! Soy Alam 👋
 
-Actualmente me encuentro aprendiendo desarrollo de software, diseño, entre otras cosas.
+🔍 Explorando diversas capas tecnológicas para entender el software de manera integral.
+
+Estoy construyendo [wc-beru](https://github.com/alamguardin/wc-beru), un bonito y accesible Toast Web Component.
 
 #### Objetivos:
 
